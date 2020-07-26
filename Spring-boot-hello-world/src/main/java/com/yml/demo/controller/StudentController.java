@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
 public class StudentController {
     /**
      * 获取学员列表
-     *
      * @return
      */
     @GetMapping("/list")
